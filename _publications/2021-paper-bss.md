@@ -2,7 +2,7 @@
 title: "Dictionary Learning for Sparse Representation of Signals With Hidden Markov Model Dependency"
 collection: publications
 permalink: /publication/2021-paper-bss
-#excerpt: 'The goal of dictionary learning algorithms is factorizing the matrix of training signals Y with K signals, into the dictionary matrix D and the coeficient matrix X which is a sparse matrix.'
+excerpt: 'The goal of dictionary learning algorithms is factorizing the matrix of training signals Y with K signals, into the dictionary matrix D and the coeficient matrix X which is a sparse matrix.'
 date: 2021-09-27
 venue: 'Digital Signal Processing'
 paperurl: #'http://parham-kazemi.github.io/files/paper1.pdf'

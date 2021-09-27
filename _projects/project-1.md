@@ -2,7 +2,7 @@
 title: IndentationError
 excerpt: An avant-garde poem about Python
 collection: projects
-permalink: /projects/portfolio-1/ 
+permalink: /projects/project-1/ 
 ---
 
 An avant-garde poem about Python written for the Poethon at the 2019 Moore-Sloan Data Science Environments (MSDSE) annual summit:

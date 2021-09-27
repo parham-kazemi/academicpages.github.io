@@ -1,5 +1,6 @@
 ---
 title: "Blind Source Separation"
+permalink: /portfolio/bss
 collection: portfolio
 ---
 

@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a senior Electrical Engineering-Communications student at the University of Tehran.
+I'm a senior Electrical Engineering-Communications student and Teaching Assistant at the University of Tehran. This website is created to present my educational expereinces and achievements. Please take a moment to explore my website.
 
 My research interest
 ======
@@ -21,7 +21,8 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 My background and history
 ======
-
+I will receive B.S. in Electrical Engineering from the University of Tehran by February 2022. My area of specialization is Communications and my thesis title is ... . Before coming to university, I spent my high schoolat Allame Helli High School, affiliated with the National Organization for the Development of Exceptional Talents (NODET) and
+I got my high school diploma in mathematics and physics major there. Then I took part in Nationwide Iranian University Entrance Exam in the field of Mathematics and Physics and achieved rank 291 out of about 140,0000 competitors and I got the chance of studying at the University of Tehran one of the most prestigious univerities in Iran.
 <!---
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 

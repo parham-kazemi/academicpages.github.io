@@ -16,8 +16,8 @@ matrix X which is a sparse matrix. The common approach among the algorithms
 is minimizing the representation error subject to the sparseness of X
 using alternation minimization method following 1) the sparsification and 2)
 the dictionary update steps. In this approach, when D is fixed and X must be
-estimated (the sparsication step), the minimization problem is divided to K
-dierent sparse recovery problems because the training signals are assumed to be
+estimated (the sparsification step), the minimization problem is divided to K
+different sparse recovery problems because the training signals are assumed to be
 independent. However, in some signals such as medical signals, this assumption
 is not correct and the signals are not independent. Therefore, using the current
 strategy does not lead to the correct estimation of the parameters. In this
@@ -33,4 +33,6 @@ medical signals for the considered scenario.
 
 [Download paper here](http://parham-kazemi.github.io/files/paper1.pdf)
 
-#Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+<!---
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+--->

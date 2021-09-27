@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2020-fall-lcs
 venue: "University of Tehran, School of Electrical and Computer Engineering"
-date: 2021-09-23
+date: 2020-09-23
 excerpt: "Undergraduate-level course on Linear Control Systems in fall 2021."
 location: "Tehran, Iran"
 ---

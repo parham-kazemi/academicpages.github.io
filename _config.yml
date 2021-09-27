@@ -22,13 +22,13 @@ read_more                : "enabled" # if enabled, adds "Read more" links to exc
 talkmap_link             : false #change to true to add link to talkmap on talks page
 search                   : true
 comments:
-  provider               : "facebook"  #true (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : #true #(default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            : 
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
-    appid                : "123" 
+    appid                :  
     num_posts            : 5 (default)
     colorscheme          : "light" #(default), "dark"
 staticman:
@@ -117,20 +117,6 @@ author:
   youtube          :
   wikipedia        :
 
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/parhamkazemi/"
       
 # Reading Files
 include:
@@ -243,10 +229,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true

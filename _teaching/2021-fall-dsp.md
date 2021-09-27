@@ -3,8 +3,9 @@ title: "Discrete-Time Signal Processing(Fall 2021)"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2021-fall-dsp
-institution: "University of Tehran, School of Electrical and Computer Engineering"
+venue: "University of Tehran, School of Electrical and Computer Engineering"
 date: 2021-09-23
+excerpt: "Graduate-level course on discourse analysis for UCSD Communication"
 location: "City, Country"
 ---
 

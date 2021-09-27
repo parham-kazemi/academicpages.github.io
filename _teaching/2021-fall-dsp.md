@@ -1,11 +1,11 @@
 ---
 title: "Discrete-Time Signal Processing(Fall 2021)"
 collection: teaching
-teaching_type: "Undergraduate Course"
+type: "Undergraduate Course"
 permalink: /teaching/2021-fall-dsp
-institution: "University of Tehran, School of Electrical and Computer Engineering"
+venue: "University of Tehran, School of Electrical and Computer Engineering"
 date: 2021-09-23
-excerpt: "Undergraduate-level course on Discrete-Time Signal Processing(DSP)"
+excerpt: "Undergraduate-level course on Discrete-Time Signal Processing(DSP) at fall 2021"
 location: "City, Country"
 ---
 

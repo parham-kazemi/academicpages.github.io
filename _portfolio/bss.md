@@ -1,12 +1,13 @@
 ---
 title: "Blind Source Separation Projects"
-excerpt: "BSS projects" #<br/><img src='/images/500x300.png'>"
+#excerpt: "BSS projects" #<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
+I did foolowing computer assignments by MATLAB programming in spring 2021:
 
-• Implemented different ICA algorithms(such as FastICA) on a dataset estimate separated sources. <\br>
-• Implemented single/multi-channel blind source deconvolution.
-• Implemented dictionary learning algorithms(MOD and K-SVD) for sparse representation of signals.
-• Implemented an LDA classifier for an EEG dataset based on the CSP approach.
-• Implemented CCA approach in the detection of Stimulation frequency of SSVEP-based BCI.
-• Implemented MUSIC and Beamforming approach on a vertical uniform array.
+* Implemented different ICA algorithms(such as FastICA) on a dataset estimate separated sources. <\br>
+* Implemented single/multi-channel blind source deconvolution.
+* Implemented dictionary learning algorithms(MOD and K-SVD) for sparse representation of signals.
+* Implemented an LDA classifier for an EEG dataset based on the CSP approach.
+* Implemented CCA approach in the detection of Stimulation frequency of SSVEP-based BCI.
+* Implemented MUSIC and Beamforming approach on a vertical uniform array.

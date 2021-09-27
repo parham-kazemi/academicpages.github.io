@@ -1,16 +1,7 @@
 ---
-title: IndentationError
-excerpt: An avant-garde poem about Python
-collection: projects
-permalink: /projects/project-1/ 
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: portfolio
 ---
 
-An avant-garde poem about Python written for the Poethon at the 2019 Moore-Sloan Data Science Environments (MSDSE) annual summit:
-
-## IndentationError by R. Stuart Geiger
-<pre>
-space space space space
-space space space space
-space space space space
-tab
-</pre>
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 

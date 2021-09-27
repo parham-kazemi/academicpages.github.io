@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2020-spring-physics2
 venue: "University of Tehran, School of Electrical and Computer Engineering"
-date: 2021-02-01
+date: 2020-02-01
 excerpt: "Undergraduate-level course on Physics II in spring 2020."
 location: "Tehran, Iran"
 ---

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-minimal_mistakes_skin    : "contrast"#"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin    : "contrast"
 title                    : "Parham Kazemi Personal Website"
 title_separator          : "-"
 name                     : &name "Parham Kazemi"

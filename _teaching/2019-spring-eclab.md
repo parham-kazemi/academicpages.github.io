@@ -5,7 +5,7 @@ type: "Undergraduate Course"
 permalink: /teaching/2019-spring-eclab
 venue: "University of Tehran, School of Electrical and Computer Engineering"
 date: 2019-02-02
-excerpt: "Undergraduate-level course on Electrical Circuits in spring 2019."
+excerpt: ""
 location: "Tehran, Iran"
 ---
 

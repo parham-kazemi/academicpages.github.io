@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-paper-bss
 excerpt: 'The goal of dictionary learning algorithms is factorizing the matrix of training signals Y with K signals, into the dictionary matrix D and the coeficient matrix X which is a sparse matrix.'
 date: 2021-09-27
-venue: 'Digital Signal Processing'
+#venue: 'Digital Signal Processing'
 paperurl: #'http://parham-kazemi.github.io/files/paper1.pdf'
 citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
@@ -31,8 +31,9 @@ in learning from signals with HMM dependency. We confirm the eficiency of
 the proposed approach using simulations, and also, present a real application in
 medical signals for the considered scenario.
 
+<!---
+
 [Download paper here](http://parham-kazemi.github.io/files/paper1.pdf)
 
-<!---
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
 --->

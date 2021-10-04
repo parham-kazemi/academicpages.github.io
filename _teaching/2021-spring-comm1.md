@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Communications Systems(Spring 2021)"
+title: "Introduction to Communications Systems (Spring 2021)"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2021-spring-comm1

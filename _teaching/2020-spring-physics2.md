@@ -16,3 +16,4 @@ My Responsibilities:
 * Designing and grading homework
 * Holding sessions to solve homework
 
+![Alt Text](images/500x300.png)

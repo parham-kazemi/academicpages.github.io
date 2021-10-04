@@ -1,11 +1,10 @@
 ---
 title: "Blind Source Separation"
 permalink: /portfolio/bss
+excerpt: "I did following computer assignments ..."
 collection: portfolio
 ---
 
-djvbfjvb
-====
 I did following computer assignments by MATLAB programming in spring 2021:
 
 * Implemented different ICA algorithms(such as FastICA) on a dataset estimate separated sources.

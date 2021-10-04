@@ -8,6 +8,7 @@ date: 2021-09-22
 excerpt: ""
 location: "Tehran, Iran"
 ---
+venue: "University of Tehran, School of Electrical and Computer Engineering"
 
 I am responsible for designing and grading homeworks, quizes, and computer assignments.
 

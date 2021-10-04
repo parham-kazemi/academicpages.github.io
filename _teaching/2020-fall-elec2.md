@@ -5,19 +5,12 @@ type: "Undergraduate Course"
 permalink: /teaching/2020-fall-elec2
 venue: "University of Tehran, School of Electrical and Computer Engineering"
 date: 2020-09-22
-excerpt: "Undergraduate-level course on Electronics II in fall 2020."
+excerpt: ""
 location: "Tehran, Iran"
 ---
+An undergraduate-level course taught by [Dr. Shahin Ashtiani](https://scholar.google.com/citations?user=fhgy0LkAAAAJ&hl=en/)  at the University of Tehran, School of Electrical and Computer Engineering in fall 2021
 
-I am responsible for designing and grading homeworks.
+My Responsibilities:
+=====
 
-<!---
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
---->
+* Designing and grading homework and providing feedback to students

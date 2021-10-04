@@ -216,7 +216,7 @@ defaults:
       type: teaching
     values:
       layout: single
-      read_more: "disabled"
+      read_more: disabled
       read_time: false
       author_profile: true
       share: false

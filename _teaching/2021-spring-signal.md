@@ -8,8 +8,7 @@ date: 2021-02-02
 excerpt: ""
 location: "Tehran, Iran"
 ---
-
-An undergraduate-level course taught by [Dr. Saeed Akhavan] (https://scholar.google.com/citations?user=nuLXGJUAAAAJ&hl=en) at the University of Tehran, School of Electrical and Computer Engineering in fall 2021
+An undergraduate-level course taught by [**Dr. Saeed Akhavan**] (https://scholar.google.com/citations?user=nuLXGJUAAAAJ&hl=en/) at the University of Tehran, School of Electrical and Computer Engineering in fall 2021
 
 My Responsibilities:
 =====

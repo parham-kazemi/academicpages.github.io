@@ -8,7 +8,7 @@ date: 2021-09-22
 excerpt: ""
 location: "Tehran, Iran"
 ---
-An undergraduate-level course at the University of Tehran, School of Electrical and Computer Engineering in fall 2021
+An undergraduate-level course taught by [Prof. Jalil Rashed-Mohassel](https://scholar.google.com/citations?user=lAox-pUAAAAJ&hl=en/)  at the University of Tehran, School of Electrical and Computer Engineering in fall 2021
 
 My Responsibilities:
 =====

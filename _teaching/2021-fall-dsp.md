@@ -8,12 +8,12 @@ excerpt: ""
 date: 2021-09-23
 location: "Tehran, Iran"
 ---
-Undergraduate-level course at the University of Tehran, School of Electrical and Computer Engineering in fall 2021
+An undergraduate-level course at the University of Tehran, School of Electrical and Computer Engineering in fall 2021
 
 My Responsibilities:
 =====
-*Designing and grading 2 homeworks on Structures for Disrete-Time Systems and Filter Design Techniques(Chapter 6 and 7 of Oppenheim)
+
+*Designing and grading 2 Homeworks on Structures for Discrete-Time Systems and Filter Design Techniques(Chapter 6 and 7 of Oppenheim)
 *Making video of aforementioned homeworks' solution
 *Designing and grading a computer assignment about Filter Design and Applications
-*Grading lecture quizes
-
+*Grading lecture quizzes

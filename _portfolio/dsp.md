@@ -1,11 +1,11 @@
 ---
 title: "Digital Signal Processing"
 permalink: /portfolio/dsp
-excerpt: "I implemented some small computer assignment by MATLAB and its toolboxes in fall 2020"
+excerpt: "I implemented some simple computer assignments by MATLAB and its toolboxes in fall 2020"
 collection: portfolio
 ---
 
-I implemented some small computer assignment by MATLAB and its toolboxes in fall 2020 as follow:
+I implemented some simple computer assignments by MATLAB and its toolboxes in fall 2020 as follow:
 
 * Estimated pulse rate by processing an ECG dataset.
 * Implemented Audio Processing in Cepstrum domain and Image Compression using DCT.

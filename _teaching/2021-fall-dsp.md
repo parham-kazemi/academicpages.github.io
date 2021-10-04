@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2021-fall-dsp
 venue: "University of Tehran, School of Electrical and Computer Engineering"
-excerpt: "no"
+#excerpt: "no"
 date: 2021-09-23
 location: "Tehran, Iran"
 ---

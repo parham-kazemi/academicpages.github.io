@@ -13,7 +13,7 @@ An undergraduate-level course at the University of Tehran, School of Electrical 
 My Responsibilities:
 =====
 
-* Designing and grading 2 Homeworks on Structures for Discrete-Time Systems and Filter Design Techniques(Chapter 6 and 7 of Oppenheim)
-* Making video of aforementioned homeworks' solution
+* Designing and grading 2 homework on Structures for Discrete-Time Systems and Filter Design Techniques(Chapter 6 and 7 of Oppenheim)
+* Making video of aforementioned homework's solution
 * Designing and grading a computer assignment about Filter Design and Applications
 * Grading lecture quizzes

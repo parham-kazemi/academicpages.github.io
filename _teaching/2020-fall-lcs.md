@@ -15,4 +15,4 @@ My Responsibilities:
 
 * Mentoring students to do their tasks and answering their problems about lectures 
 * Providing sample questions for students
-* Grading students notes
+* Grading students notes and giving feedabck to them

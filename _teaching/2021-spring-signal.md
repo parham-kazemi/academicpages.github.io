@@ -9,15 +9,12 @@ excerpt: "Undergraduate-level course on Signals and Systems in spring 2021."
 location: "Tehran, Iran"
 ---
 
-I am responsible for designing and grading homeworks and computer assignments.
+An undergraduate-level course taught by Dr. Saeed Akhavan(https://scholar.google.com/citations?user=nuLXGJUAAAAJ&hl=en) at the University of Tehran, School of Electrical and Computer Engineering in fall 2021
 
-<!---
-Heading 1
-======
+My Responsibilities:
+=====
 
-Heading 2
-======
-
-Heading 3
-======
---->
+* Grading homework about Introduction to Signal and Systems and TI Systems Properties (Chapter 1 and 2 of Oppenheim)
+* Holding online sessions to solve homework
+* Designing and grading a computer assignment about Dual-Tone Multi Frequency
+* Grading lecture quizzes

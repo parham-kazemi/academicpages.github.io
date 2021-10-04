@@ -13,3 +13,6 @@ I did the following computer assignments by MATLAB programming in spring 2021:
 * Implemented an LDA classifier for an EEG dataset based on the CSP approach.
 * Implemented CCA approach in the detection of Stimulation frequency of SSVEP-based BCI.
 * Implemented MUSIC and Beamforming approach on a vertical uniform array.
+
+
+P.S.: Codes are available upon your request. Feel free to mail me.

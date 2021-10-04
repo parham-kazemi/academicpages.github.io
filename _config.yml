@@ -216,6 +216,7 @@ defaults:
       type: teaching
     values:
       layout: single
+      read_more: false
       read_time: false
       author_profile: true
       share: false
@@ -226,6 +227,7 @@ defaults:
       type: publications
     values:
       layout: single
+      read_time: true
       author_profile: true
       share: true
       comments: true

@@ -9,6 +9,8 @@ redirect_from:
 ---
 I am a senior Electrical Engineering-Communications student and Teaching Assistant at the University of Tehran. This website was created to present my educational experiences and achievements. Please take a moment to explore my website or look at my CV(available in the navigation bar) for concise information.
 
+**Please notice that the website is upgrading now, and you may find some parts incomplete.**
+
 My research interest
 ======
 My major is communications, and I am interested in signal and image processing, wireless communications, and somewhat antenna design. Also, I like biomedical engineering, and its new advancements really impress me.

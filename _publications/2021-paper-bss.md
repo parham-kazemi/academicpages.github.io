@@ -31,6 +31,36 @@ in learning from signals with HMM dependency. We confirm the eficiency of
 the proposed approach using simulations, and also, present a real application in
 medical signals for the considered scenario.
 
+Conclusion and Future Work
+=====
+In several applications, such as those explained in this paper, dynamic models
+generate signals and hence, the generated signals are not statistically independent.
+The performance of the current dictionary learning algorithms degrades
+when they are applied on such dependent training signals. In this study,
+we investigated the dictionary learning problem for sparse representation of the
+signals when the training signals were generated based on a HMM. We showed
+that the dependency among the signals affects the selection of the proper atoms
+for each signal. Then, we proposed an approach using MAP and EM to improve
+the performance of the dictionary learning algorithms in the mentioned
+scenario. The proposed approach is not an independent dictionary learning algorithm.
+It is a general approach that we can employ for existing dictionary
+learning algorithms to make them work better for training signals with HMM
+dependency. Simulation results showed the effectiveness of the proposed approach
+especially when the signals were highly dependent and the SNR was
+low. We also presented a real application in medical signals for the considered
+model. For the future work, it would be interesting to consider other dynamic
+models for dependency of the signals, and perform the dictionary learning for
+sparse representation of the signals generated under the considered scenario.
+Many dynamic models such as auto-regressive (AR) models and higher order
+Markovian models can be considered for generation of the signals. Depending
+on the considered model, the approach used to modify the dictionary learning
+algorithms would completely change. Hence, we concentrated on a specific dynamic
+model in this paper, which can motivate the researchers to investigate the
+dictionary learning problem when there are other dynamic models in generation
+of signals.
+
+
+
 <!---
 
 [Download paper here](http://parham-kazemi.github.io/files/paper1.pdf)

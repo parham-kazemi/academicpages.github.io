@@ -1,5 +1,5 @@
 ---
-title: "Electrical Circuits Lab(Spring 2019)"
+title: "Electrical Circuits Lab (Spring 2019)"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2019-spring-eclab
@@ -9,15 +9,6 @@ excerpt: ""
 location: "Tehran, Iran"
 ---
 
-I am responsible for designing and grading homeworks and computer assignments.
+An undergraduate-level Laboratory course handled by [Dr. Hossein Iman-Eini](https://scholar.google.com/citations?user=Ta7REBYAAAAJ&hl=en/)  at the University of Tehran, School of Electrical and Computer Engineering in spring 2019
 
-<!---
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
---->
+In this lab, I helped electrical and computer engineering students understand the concepts of their experiments and then implement the demanded passive circuits.

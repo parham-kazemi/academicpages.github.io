@@ -1,5 +1,5 @@
 ---
-title: "Electronics I(Spring 2020)"
+title: "Electronics I (Spring 2020)"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2020-spring-elec1

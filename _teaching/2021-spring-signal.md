@@ -5,7 +5,7 @@ type: "Undergraduate Course"
 permalink: /teaching/2021-spring-signal
 venue: "University of Tehran, School of Electrical and Computer Engineering"
 date: 2021-02-02
-excerpt: "Undergraduate-level course on Signals and Systems in spring 2021."
+excerpt: ""
 location: "Tehran, Iran"
 ---
 

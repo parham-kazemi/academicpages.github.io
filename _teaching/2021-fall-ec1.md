@@ -8,17 +8,12 @@ date: 2021-09-22
 excerpt: ""
 location: "Tehran, Iran"
 ---
-venue: "University of Tehran, School of Electrical and Computer Engineering"
+Undergraduate-level course at the University of Tehran, School of Electrical and Computer Engineering in fall 2021
 
+My Responsibility:
+=====
 I am responsible for designing and grading homeworks, quizes, and computer assignments.
-
-<!---
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
---->
+*Designing and grading 2 homeworks on Structures for Disrete-Time Systems and Filter Design Techniques(Chapter 6 and 7 of Oppenheim)
+*Making video of aforementioned homeworks' solution
+*Designing and grading a computer assignment about Filter Design and Applications
+*Grading lecture quizes

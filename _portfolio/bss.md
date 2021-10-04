@@ -1,11 +1,11 @@
 ---
 title: "Blind Source Separation"
 permalink: /portfolio/bss
-excerpt: "I did following computer assignments ..."
+excerpt: "I did the following computer assignments by MATLAB programming in spring 2021"
 collection: portfolio
 ---
 
-I did following computer assignments by MATLAB programming in spring 2021:
+I did the following computer assignments by MATLAB programming in spring 2021:
 
 * Implemented different ICA algorithms(such as FastICA) on a dataset estimate separated sources.
 * Implemented single/multi-channel blind source deconvolution.

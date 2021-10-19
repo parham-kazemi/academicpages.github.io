@@ -1,7 +1,7 @@
 ---
 title: "Digital Communications Systems Lab"
 permalink: /portfolio/comm2
-excerpt: "I did the following computer assignments by MATLAB programming in spring 2021"
+#excerpt: "I did the following computer assignments by MATLAB programming in spring 2021"
 collection: portfolio
 ---
 I simulated digital modulation techniques such as PAM, QAM, PSK, DBPSK, and FSK(both coherent and non-coherent detection) with various detailed considerations using MATLAB:

@@ -7,9 +7,10 @@ collection: portfolio
 
 I did the following computer assignments by MATLAB programming in spring 2021:
 
-* Retrieved source signals from a set of noisy observations using different ICA algorithms
+* Retrieved source signals from a set of noisy observations using different ICA algorithms with two approaches:
      1. minimizing Kullback–Leibler divergence based on estimating score function, deflation approach, and equivariant algorithm
      2. maximizing kurtosis function based on deflation approach, fixed-point approach, and FastICA).
+     
 * Implemented single-channel and multi-channel blind source deconvolution in both time domain and frequency domain.
 * Implemented dictionary learning algorithms(MOD and K-SVD) for sparse representation of signals.
 * Generated an LDA classifier for an EEG dataset based on the Common Spatial Pattern(CSP) approach.

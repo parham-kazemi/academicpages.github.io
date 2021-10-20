@@ -13,7 +13,7 @@ I am a senior Electrical Engineering-Communications student and Teaching Assista
 
 My research interest
 ======
-My major is communications, and I am interested in signal and image processing, wireless communications, and somewhat antenna design. Also, I like biomedical engineering, and its new advancements really impress me.
+My major is communications, and I am interested in signal and image processing, wireless communications, and coding and information theory. Also, I like biomedical engineering, and its new advancements really impress me.
 
 My educational background
 ======

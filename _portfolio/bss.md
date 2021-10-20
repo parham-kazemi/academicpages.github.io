@@ -1,7 +1,7 @@
 ---
 title: "Blind Source Separation"
 permalink: /portfolio/bss
-excerpt: ""
+#excerpt: ""
 collection: portfolio
 ---
 

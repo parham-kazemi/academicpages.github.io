@@ -31,6 +31,7 @@ in learning from signals with HMM dependency. We confirm the eficiency of
 the proposed approach using simulations, and also, present a real application in
 medical signals for the considered scenario.
 
+<!---
 Conclusion and Future Work
 =====
 In several applications, such as those explained in this paper, dynamic models
@@ -59,6 +60,8 @@ model in this paper, which can motivate the researchers to investigate the
 dictionary learning problem when there are other dynamic models in generation
 of signals.
 
+
+--->
 
 
 <!---

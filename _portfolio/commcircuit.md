@@ -4,4 +4,4 @@ permalink: /portfolio/communicationcircuit
 #excerpt: ""
 collection: portfolio
 ---
-I designed and simulated an LNA using Source Inductive Degenerated structure.
+I designed and simulated an LNA using Source Inductive Degenerated structure using Keysight ADS.

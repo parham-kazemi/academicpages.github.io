@@ -10,6 +10,7 @@ citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal
 ---
 Abstract
 =====
+<div style="text-align: justify">  
 The goal of dictionary learning algorithms is factorizing the matrix of training
 signals Y with K signals, into the dictionary matrix D and the coeficient
 matrix X which is a sparse matrix. The common approach among the algorithms
@@ -30,6 +31,7 @@ employ for existing dictionary learning algorithms to improve their performance
 in learning from signals with HMM dependency. We confirm the eficiency of
 the proposed approach using simulations, and also, present a real application in
 medical signals for the considered scenario.
+</div>
 
 <!---
 Conclusion and Future Work

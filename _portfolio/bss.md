@@ -1,7 +1,7 @@
 ---
 title: "Blind Source Separation"
 permalink: /portfolio/bss
-excerpt: "I did the following computer assignments by MATLAB programming in spring 2021"
+excerpt: ""
 collection: portfolio
 ---
 

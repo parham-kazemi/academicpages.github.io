@@ -1,6 +1,6 @@
 ---
 title: "Wireless Communications"
-permalink: /portfolio/dsp
+permalink: /portfolio/wireless
 #excerpt: "I implemented some simple computer assignments by MATLAB and its toolboxes in fall 2020"
 collection: portfolio
 ---

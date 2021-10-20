@@ -1,5 +1,5 @@
 ---
-title: "Electric Circuits I(Fall 2021)"
+title: "Electric Circuits I (Fall 2021)"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2021-fall-ec1

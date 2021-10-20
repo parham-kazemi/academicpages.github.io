@@ -17,7 +17,7 @@ My major is communications, and I am interested in signal and image processing, 
 
 My educational background
 ======
-I will receive B.S. in Electrical Engineering from the University of Tehran by February 2022. My focus area is Communications, and I am concentrating on developing my thesis. Before coming to university, I spent my high school at Allame Helli High School, affiliated with the National Organization for the Development of Exceptional Talents (NODET) and
+I will receive B.S. in Electrical Engineering from the University of Tehran by February 2022. My focus area is Communications, and I am working on my B.Sc. project now. Before coming to university, I spent my high school at Allameh Helli High School, affiliated with the National Organization for the Development of Exceptional Talents (NODET) and
 I got my high school diploma in mathematics and physics major there. Then I took part in Nationwide Iranian University Entrance Exam in Mathematics and Physics and ranked 291 out of about 140,0000 competitors, so I got the chance to study at the University of Tehran, one of the most prestigious universities in Iran.
 
 <!--- coding and information theory --->

@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a senior Electrical Engineering-Communications student and Teaching Assistant at the University of Tehran. Being in a competitive educational environment makes me a hardworking, responsible, and organized person. These features and my continual passion for enhancing my knowledge and experience and learning new technologies have equipped me with a unique set of abilities that make me well prepared to pursue further, advanced work in the academic profession. \newline
+I am a senior Electrical Engineering-Communications student and Teaching Assistant at the University of Tehran. Being in a competitive educational environment makes me a hardworking, responsible, and organized person. These features and my continual passion for enhancing my knowledge and experience and learning new technologies have equipped me with a unique set of abilities that make me well prepared to pursue further, advanced work in the academic profession. 
+<br />
 This website was created to present my educational experiences and achievements. Please take a moment to explore my website or look at my CV(available in the navigation bar) for concise information.
 
 **Please note that the website is upgrading now, and you may find some parts incomplete.**

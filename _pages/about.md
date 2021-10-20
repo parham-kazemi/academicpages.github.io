@@ -16,14 +16,15 @@ This website was created to present my educational experiences and achievements.
 **Please note that the website is upgrading now, and you may find some parts incomplete.**
 </div>
 
-<div style="text-align: right"> 
 My research interest
 ======
+<div style="text-align: right"> 
 My major is communications, and I am interested in signal and image processing, wireless communications, and coding and information theory. Also, I like biomedical engineering, and its new advancements really impress me.
 </div>
-<div style="text-align: right"> 
+
 My educational background
 ======
+<div style="text-align: right"> 
 I will receive B.S. in Electrical Engineering from the University of Tehran by February 2022. My focus area is Communications, and I am working on my B.Sc. project now. Before coming to university, I spent my high school at Allameh Helli High School, affiliated with the National Organization for the Development of Exceptional Talents (NODET) and
 I got my high school diploma in mathematics and physics major there. Then I took part in Nationwide Iranian University Entrance Exam in Mathematics and Physics and ranked 291 out of about 140,0000 competitors, so I got the chance to study at the University of Tehran, one of the most prestigious universities in Iran.
 </div>

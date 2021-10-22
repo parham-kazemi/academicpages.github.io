@@ -9,7 +9,7 @@ redirect_from:
 ---
 <div style="text-align: justify">  
 
-Hi! I am Parham, a last-year undergraduate Electrical Engineering student at the University of Tehran. My major is communications, and I passed some courses in this major like DSP, Blind Source Separation, Operations Research, Digital Communications, Wireless Communications, Antenna I, Microwave I, and Electromagnetic Fields and Waves. I am currently working on my bachelor project about "Extracting Singer Vocal From Music Using Bind Source Separation." 
+Hi! I am Parham, a last-year undergraduate Electrical Engineering student at the University of Tehran. My major is communications, and I passed some courses in this major like DSP, Blind Source Separation, Operations Research, Digital Communications, Wireless Communications, Antenna I, Microwave I, and Electromagnetic Fields and Waves. At the moment, I am working on my bachelor project about "Extracting Singer Vocal From Music Using Bind Source Separation." 
 <br />
 <br /> 
 My research interests include signal and image processing, wireless communications, and coding and information theory. Also, I like biomedical engineering, and its new advancements really impress me.

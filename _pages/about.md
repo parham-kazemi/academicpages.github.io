@@ -15,7 +15,7 @@ Hi! I am Parham, a senior Electrical Engineering student at the University of Te
 My research interests include wireless communications, signal and image processing, and coding and information theory. Also, I like biomedical engineering, and its new advancements really impress me.
 <br />
 <br />
-Before coming to University of Theran, I spent my high school at Allameh Helli High School, affiliated with the National Organization for the Development of Exceptional Talents (NODET), and I got my high school diploma in mathematics and physics major there. Then I took part in Nationwide Iranian University Entrance Exam in Mathematics and Physics and ranked 291 out of about 140,0000 competitors(top 0.2%), thus I got the chance to study at the University of Tehran, one of the most prestigious universities in Iran.
+Before coming to University of Tehran, I spent my high school at Allameh Helli High School, affiliated with the National Organization for the Development of Exceptional Talents (NODET), and I got my high school diploma in mathematics and physics major there. Then I took part in Nationwide Iranian University Entrance Exam in Mathematics and Physics and ranked 291 out of about 140,0000 competitors(top 0.2%), thus I got the chance to study at the University of Tehran, one of the most prestigious universities in Iran.
 <br />
 <br />
 This website is created to present my educational experiences and achievements. Please take a moment to explore my website or look at my CV (available in the navigation bar) for concise information.

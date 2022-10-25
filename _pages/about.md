@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify">  
-Hi! I am Parham, a M.A.Sc. student in Electrical and Computer Engineering at McMaster University, one of top 4 universities in Canada. I am working in the intersection of Oprical Wireless Communications and Inforamtion Theory in FOCAL group under supervision of Prof. Steve Hranilovic. My project title is  "Probabilistic shaping for optical wireless intensity channels,” which is roughly a topic on modulation and coding for Intensity Modulatgion Direct Detection(IM/DD) channels.
-  
-I received my B.Sc. in Electrical Engineering at the University of Tehran in July 2022, and my bachelor project was "Extracting Singer Vocal From a Music Using Bind Source Separation."
-
+Hi! I am Parham, a MASc Electrical and Computer Engineering student at McMaster University, one of the top 4 universities in Canada. I am working in the intersection of Optical Wireless Communications and Information Theory in the FOCAL group under the supervision of Prof. Steve Hranilovic. My project title is "Probabilistic shaping for optical wireless intensity channels," which is roughly a topic on modulation and coding for Intensity Modulation Direct Detection(IM/DD) channels.
+<br />
+<br /> 
+Before this, I received my B.Sc. in Electrical Engineering at the University of Tehran in July 2022, and my bachelor project was "Extracting Singer Vocal From a Music Using Bind Source Separation."
 </div>
-**Please note that the website is upgrading now, and you may find some parts incomplete.**
 
 <!---
 Hi! I am Parham, a senior Electrical Engineering student at the University of Tehran. My major is communications, and I passed some courses in this category such as Digital Communications, Wireless Communications, DSP, Blind Source Separation, Operations Research, Antenna I, Microwave I, and Electromagnetic Fields and Waves. At the moment, I am working on my bachelor project that is "Extracting Singer Vocal From Music Using Bind Source Separation," under supervision of Dr. Saeed Akhavan Behabadi. 
@@ -27,6 +26,7 @@ Before coming to University of Tehran, I spent my high school at Allameh Helli H
 <br />
 This website is created to present my educational experiences and achievements. Please take a moment to explore my website or look at my CV (available in the navigation bar) for concise information.
 <br />
+**Please note that the website is upgrading now, and you may find some parts incomplete.**
 --->
 
 <!---

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home" #"Parham Kazemi Personal Website"
+title                    : "Parham Kazemi Personal Website" #"Home"
 title_separator          : "-"
 name                     : &name "Parham Kazemi"
 description              : &description "Parham Kazemi Personal Website"

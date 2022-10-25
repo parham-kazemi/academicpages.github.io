@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="text-align: justify">  
+<div style="text-align: justify"> 
+<br />
 Hi! I am Parham, a MASc Electrical and Computer Engineering student at McMaster University, one of the top 4 universities in Canada. I am working in the intersection of Optical Wireless Communications and Information Theory in the FOCAL group under the supervision of Prof. Steve Hranilovic. My project title is "Probabilistic shaping for optical wireless intensity channels," which is roughly a topic on modulation and coding for Intensity Modulation Direct Detection(IM/DD) channels.
 <br />
 <br /> 

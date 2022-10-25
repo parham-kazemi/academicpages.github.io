@@ -1,16 +1,15 @@
 # main links links
 main:
-<!---
-  - title: "Publications"
+
+  - #title: "Publications"
     url: /publications/ 
 
-  - title: "Teaching"
+  - #title: "Teaching"
     url: /teaching/    
     
-  - title: "Projects"
+  - #title: "Projects"
     url: /portfolio/
-    
-    --->
+
   - title: "CV"
     url: /cv/
      
